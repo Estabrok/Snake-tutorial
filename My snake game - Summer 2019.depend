@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1558606280 source:c:\users\chidori\desktop\my snake game - summer 2019\main.cpp
+	<iostream>
+	<windows.h>
+	<iomanip>
+	<conio.h>
+
